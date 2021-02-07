@@ -18,7 +18,7 @@ Here I used:
 
 This is a race graph with the GOALS accumulated in the first league of each team since 1934/35 until 2019/20.<br>
 https://www.youtube.com/watch?v=lFyryWXDy5o
-<br>
+<br><br>
 This is a race graph with the GOALS SCORED accumulated in the first league of each team since 1934/35 until 2019/20.<br>
 https://youtu.be/7Ye-hiKA0WE
 
