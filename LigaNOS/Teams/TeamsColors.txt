@@ -1,0 +1,74 @@
+
+FC Porto: #0000cc
+Sporting: #33cc33
+Benfica: #ff0000
+Belenenses: #99d6ff
+V. Setúbal: #99e699
+União Lisboa: #cccccc
+Académico FC: #cccccc
+Académica : #000000
+Boavista: #000000
+Carcavelinhos: #990000
+Leixões: #ff0000
+Barreirense: #ff8080
+Casa Pia: #000000
+Unidos de Lisboa: #99e699
+Olhanense: #000000
+V. Guimarães: #cccccc
+Leça FC: #cccccc
+CUF: #33cc33
+Atlético CP: #ffff00
+SC Salgueiros: #ff0000
+Estoril Praia: #ffff00
+SL Elvas: #3333ff
+UD Oliveirense: #990000
+FC Famalicão: #3333ff
+AD Sanjoanense: #000000
+O Elvas: #3333ff
+Lusitano VRSA: #ff8080
+SC Braga: #ff8080
+SC Covilhã: #248f24
+Oriental: #990000
+Lusit. Évora: #99e699
+Torreense: #990000
+Caldas SC: #8c8c8c
+Beira-Mar: #baba07
+Feirense: #3333ff
+Varzim: #000000
+Seixal FC: #990000
+Sanjoanense: #8c8c8c
+Tirsense: #000000
+U. Tomar: #990000
+Farense: #8c8c8c
+Montijo: #baba07
+U. Coimbra: #0000cc
+SC Espinho: #cccccc
+Portimonense: #000000
+Marítimo: #ff0000
+Riopele: #248f24
+Académico de Viseu: #000000
+UD Leiria: #cccccc
+Rio Ave: #cccccc
+FC Penafiel: #ff0000
+Amora FC: #3333ff
+Ginásio de Alcobaça: #3333ff
+RD Águeda: #ff0000
+FC Vizela: #3333ff
+GD Chaves: #0000cc
+CD Aves: #ff0000
+Est. Amadora: #ff8080
+Nacional: #cccccc
+Fafe: #baba07
+União Madeira: #ffff00
+Gil Vicente: #ff0000
+Paços de Ferreira: #ffff00
+FC Felgueiras: #990000
+Campomaiorense: #33cc33
+FC Alverca: #4B0082
+Santa Clara: #ff0000
+Moreirense: #33cc33
+Naval: #cccccc
+Trofense: #4B0082
+FC Arouca: #ffff00
+CD Tondela: #ffff00
+Belenenses SAD: #0000cc
